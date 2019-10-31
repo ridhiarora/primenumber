@@ -1,7 +1,7 @@
 package while_loop;
 import java.util.Scanner;
 
-public class primeno {
+public class PrimeNo {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
